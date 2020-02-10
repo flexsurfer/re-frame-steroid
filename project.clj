@@ -1,4 +1,4 @@
-(defproject re-frame-steroid "0.1.0"
+(defproject re-frame-steroid "0.1.1"
   :description "re-frame on steroids"
   :url "https://github.com/flexsurfer/re-frame-steroid"
   :license {:name "Eclipse Public License"

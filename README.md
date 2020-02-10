@@ -78,4 +78,16 @@ Set mergeable keys
 (fx/set-mergeable-keys #{:key1 :key2})
 ```
 
+Subs
+```clojure
+(:require [steroid.subs :as subs])
+
+(subs/reg-root-subs #{:sub1 :sub2})
+
+(subs/reg-root-sub :sub3)
+
+(subs/reg-root-sub :sub4-name :sub4)
+```
+
+
 ENJOY!
